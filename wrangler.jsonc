@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "1572and",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": " Cipp72",
+      "database_id": "87f3f865-b554-4e1a-9658-f7e36282398a"
+    }
+  ]
+}
